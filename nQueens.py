@@ -4,7 +4,7 @@ File: nQueens.py
 Project 1
 
 This code creates a board that has a "n" number of queens that are in safe positions based off the of rules of chess.
-It also compares the two different ways of goign through the board, one efficiently, (nQueensFancy) and inefficiently
+It also compares the two different ways of going through the board, one efficiently, (nQueensFancy) and inefficiently
 (nQueensBrute). 
 
 """
