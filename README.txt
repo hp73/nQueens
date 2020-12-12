@@ -1,5 +1,5 @@
 Project 1 - nQueens
-CSCI 102 Winter 2019
+CSCI 112 Winter 2019
 By Harry Pinkerton, Laurie Jones, James Lawson
 Required to run: python 3.7
 
